@@ -1,0 +1,5 @@
+Add bid as anonymous
+Add verified seller
+Add layout button (grid or list aka table)
+
+Manage bidders and sell to one bidder. Reopen bid if not sold.
